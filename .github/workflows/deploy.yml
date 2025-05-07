@@ -20,7 +20,3 @@ jobs:
           node-version-file: '.node-version'
 
       - run: make
-
-      - run: pnpm publish -r --filter @block65/webcrypto-web-push --access=public --no-git-checks
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
