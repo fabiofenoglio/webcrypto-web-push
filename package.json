@@ -1,4 +1,5 @@
 {
+  "name": "@fabiofenoglio/webcrypto-web-push",
   "private": true,
   "bugs": {
     "url": "https://github.com/block65/webcrypto-web-push/issues"
