@@ -1,13 +1,13 @@
 {
-  "name": "@block65/webcrypto-web-push",
+  "name": "@fabiofenoglio/webcrypto-web-push",
   "version": "1.0.2",
   "private": false,
   "bugs": {
-    "url": "https://github.com/block65/webcrypto-web-push/issues"
+    "url": "https://github.com/fabiofenoglio/webcrypto-web-push/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/block65/webcrypto-web-push"
+    "url": "https://github.com/fabiofenoglio/webcrypto-web-push"
   },
   "license": "MIT",
   "type": "module",
